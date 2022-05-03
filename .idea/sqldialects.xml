@@ -2,8 +2,18 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Joins.sql" dialect="PostgreSQL" />
+<<<<<<< HEAD
+=======
+    <file url="file://$PROJECT_DIR$/Lesson23/TestDB1.sql" dialect="PostgreSQL" />
+>>>>>>> c41d829 (DB Tasks)
     <file url="file://$PROJECT_DIR$/exam.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/part2.sql" dialect="GenericSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="SqlResolveMappings">
+    <file url="PROJECT" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+>>>>>>> c41d829 (DB Tasks)
 </project>

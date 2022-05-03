@@ -7,6 +7,10 @@ create table  car3(
 	PRIMARY KEY (car_id)
 );
 
+<<<<<<< HEAD
+=======
+select * from car3;
+>>>>>>> c41d829 (DB Tasks)
 
 insert into car3 (make, model, price) values ('Tesla', 'Model X', 50000);
 insert into car3 (make, model, price, person_id) values ('Volkswagen', 'GTI', 14410, 545);
