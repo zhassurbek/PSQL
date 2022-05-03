@@ -33,17 +33,17 @@ ORDER BY u.user_id;
 
 
 select * from cars;
-SELECT make, SUM(price) as allPrice
-FROM cars
-GROUP BY make
-HAVING SUM(price) > 50000
-ORDER BY make;
+-- SELECT make, SUM(price) as allPrice
+-- FROM cars
+-- GROUP BY make, make, make, make, make
+-- HAVING SUM(price) > 50000
+-- ORDER BY make;
 
 SELECT priority FROM task;
 
 
-SELECT COALESCE(NULL, 7, 9);
-SELECT COALESCE('20-02-2022', NULL, 'BOLTABAYEV');
+-- SELECT COALESCE(NULL, 7, 9);
+-- SELECT COALESCE('20-02-2022', NULL, 'BOLTABAYEV');
 
 
 SELECT CAST(100 AS float8);
